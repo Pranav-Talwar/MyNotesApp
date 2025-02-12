@@ -26,11 +26,9 @@
 
 <h3>Backend</h3>
 <ul>
-  <li>☕ Spring Boot 3</li>
-  <li>📦 Spring Data MongoDB</li>
-  <li>☕ Java 17+</li>
+  <li>☕ Spring Boot </li>
   <li>🗃️ MongoDB</li>
-  <li>🧪 Maven</li>
+
 </ul>
 
 <h2>💻 Installation</h2>
