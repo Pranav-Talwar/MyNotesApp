@@ -22,8 +22,7 @@
   <li>⚛️ React (v18+)</li>
   <li>🧭 React Router</li>
   <li>🖌️ Bootstrap 5</li>
-  <li>🖼️ Font Awesome Icons</li>
-  <li>🌐 HTML5/CSS3</li>
+
 </ul>
 
 <h3>Backend</h3>
