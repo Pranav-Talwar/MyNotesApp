@@ -1,81 +1,113 @@
-# 📓 iNotebook - Full Stack Note-Taking Application
+<h1>📓 iNotebook - Full Stack Note-Taking Application</h1>
+<p>A full-stack note-taking application with a React frontend and Spring Boot + MongoDB backend, providing CRUD operations for notes with a user-friendly interface.</p>
 
-A full-stack note-taking application with a React frontend and Spring Boot + MongoDB backend, providing CRUD operations for notes with a user-friendly interface.
+<h2>🚀 Features</h2>
+<ul>
+  <li>📝 <strong>Create Notes</strong>: Add new notes with title, description, and tags</li>
+  <li>👀 <strong>Read Notes</strong>: View all notes in a responsive grid layout</li>
+  <li>✏️ <strong>Update Notes</strong>: Edit existing notes with instant updates</li>
+  <li>🗑️ <strong>Delete Notes</strong>: Remove notes with confirmation</li>
+  <li>✅ <strong>Form Validation</strong>: Client-side validation for note content</li>
+  <li>📱 <strong>Responsive Design</strong>: Works on both desktop and mobile devices</li>
+  <li>🖼️ <strong>Sticky Note UI</strong>: Colorful card-based interface with hover effects</li>
+  <li>⚠️ <strong>Error Handling</strong>: Clear error messages for failed operations</li>
+</ul>
 
-## 🚀 Features
+<h2>🛠️ Technologies Used</h2>
 
-- 📝 **Create Notes**: Add new notes with title, description, and tags
-- 👀 **Read Notes**: View all notes in a responsive grid layout
-- ✏️ **Update Notes**: Edit existing notes with instant updates
-- 🗑️ **Delete Notes**: Remove notes with confirmation
-- ✅ **Form Validation**: Client-side validation for note content
-- 📱 **Responsive Design**: Works on both desktop and mobile devices
-- 🖼️ **Sticky Note UI**: Colorful card-based interface with hover effects
-- ⚠️ **Error Handling**: Clear error messages for failed operations
+<h3>Frontend</h3>
+<ul>
+  <li>⚛️ React (v18+)</li>
+  <li>🧭 React Router</li>
+  <li>🖌️ Bootstrap 5</li>
+  <li>🖼️ Font Awesome Icons</li>
+  <li>🌐 HTML5/CSS3</li>
+</ul>
 
-## 🛠️ Technologies Used
+<h3>Backend</h3>
+<ul>
+  <li>☕ Spring Boot 3</li>
+  <li>📦 Spring Data MongoDB</li>
+  <li>☕ Java 17+</li>
+  <li>🗃️ MongoDB</li>
+  <li>🧪 Maven</li>
+</ul>
 
-### Frontend
-- ⚛️ React (v18+)
-- 🧭 React Router
-- 🖌️ Bootstrap 5
-- 🖼️ Font Awesome Icons
-- 🌐 HTML5/CSS3
+<h2>💻 Installation</h2>
 
-### Backend
-- ☕ Spring Boot 3
-- 📦 Spring Data MongoDB
-- ☕ Java 17+
-- 🗃️ MongoDB
-- 🧪 Maven
+<h3>Prerequisites</h3>
+<ul>
+  <li>☕ Java Development Kit (JDK 17+)</li>
+  <li>🌐 Node.js (v16+)</li>
+  <li>🗃️ MongoDB Community Edition</li>
+  <li>🧪 Maven</li>
+</ul>
 
-## 💻 Installation
+<h3>Backend Setup</h3>
+<ol>
+  <li>Clone the repository</li>
+  <li>Navigate to the backend directory:</li>
+  <pre><code>cd backend</code></pre>
+  <li>Start MongoDB service</li>
+  <li>Run the Spring Boot application:</li>
+  <pre><code>mvn spring-boot:run</code></pre>
+</ol>
 
-### Prerequisites
-- ☕ Java Development Kit (JDK 17+)
-- 🌐 Node.js (v16+)
-- 🗃️ MongoDB Community Edition
-- 🧪 Maven
+<h3>Frontend Setup</h3>
+<ol>
+  <li>Navigate to the frontend directory:</li>
+  <pre><code>cd frontend</code></pre>
+  <li>Install dependencies:</li>
+  <pre><code>npm install</code></pre>
+  <li>Start development server:</li>
+  <pre><code>npm run dev</code></pre>
+</ol>
 
-### Backend Setup
-1. Clone the repository
-2. Navigate to the backend directory:
-   # Start MongoDB service
-   # Run the Spring Boot application:
-   mvn spring-boot:run
+<h2>⚙️ Configuration</h2>
 
-Frontend Setup
-Navigate to frontend directory:
+<h3>Backend</h3>
+<ul>
+  <li><strong>Port</strong>: 8081</li>
+  <li><strong>MongoDB connection</strong>: <code>mongodb://localhost:27017/iNotebook</code></li>
+  <li><strong>CORS</strong> configured for <code>http://localhost:5173</code></li>
+</ul>
 
-run
-cd frontend
+<h3>Frontend</h3>
+<ul>
+  <li><strong>Development server</strong>: <code>http://localhost:5173</code></li>
+  <li><strong>API base URL</strong>: <code>http://localhost:8081/api/notes</code></li>
+</ul>
 
-Install dependencies:
-run
-npm install
+<h2>📡 API Endpoints</h2>
 
-Start development server:
-run
-npm run dev
-
-Configuration
-
-Backend
-
-Port: 8081
-
-MongoDB connection: mongodb://localhost:27017/iNotebook
-
-CORS configured for http://localhost:5173
-
-Frontend
-Development server: http://localhost:5173
-
-API base URL: http://localhost:8081/api/notes
-
-API Endpoints
-Method	Endpoint	Description
-GET	/api/notes	Get all notes
-POST	/api/notes	Create new note
-PUT	/api/notes/:id	Update existing note
-DELETE	/api/notes/:id	Delete note
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Endpoint</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GET</td>
+      <td>/api/notes</td>
+      <td>Get all notes</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>/api/notes</td>
+      <td>Create new note</td>
+    </tr>
+    <tr>
+      <td>PUT</td>
+      <td>/api/notes/:id</td>
+      <td>Update existing note</td>
+    </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>/api/notes/:id</td>
+      <td>Delete note</td>
+    </tr>
+  </tbody>
+</table>
