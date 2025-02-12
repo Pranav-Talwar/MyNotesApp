@@ -1,6 +1,5 @@
 <h1>📓 MyNotesApp - Full Stack Note-Taking Application</h1>
-![Screenshot_2025-02-12_20-32-33](https://github.com/user-attachments/assets/093e2673-d62b-431b-8513-e5d39cd94c2c)
-
+"C:\Users\talwa\Downloads\Screenshot_2025-02-12_20-32-33.png"
 <p>A full-stack note-taking application with a React frontend and Spring Boot + MongoDB backend, providing CRUD operations for notes with a user-friendly interface.</p>
 
 <h2>🚀 Features</h2>
