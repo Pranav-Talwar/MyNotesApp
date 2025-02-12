@@ -1,4 +1,4 @@
-<h1>📓 iNotebook - Full Stack Note-Taking Application</h1>
+<h1>📓 MyNotesApp - Full Stack Note-Taking Application</h1>
 <p>A full-stack note-taking application with a React frontend and Spring Boot + MongoDB backend, providing CRUD operations for notes with a user-friendly interface.</p>
 
 <h2>🚀 Features</h2>
