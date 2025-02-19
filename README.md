@@ -19,9 +19,9 @@
 
 <h3>Frontend</h3>
 <ul>
-  <li>⚛️ React (v18+)</li>
+  <li>⚛️ React </li>
   <li>🧭 React Router</li>
-  <li>🖌️ Bootstrap 5</li>
+  <li>🖌️ Bootstrap </li>
 
 </ul>
 
