@@ -14,7 +14,7 @@
   <li>🖼️ <strong>Sticky Note UI</strong>: Colorful card-based interface with hover effects</li>
   <li>⚠️ <strong>Error Handling</strong>: Clear error messages for failed operations</li>
 </ul>
-
+ 
 <h2>🛠️ Technologies Used</h2>
 
 <h3>Frontend</h3>
