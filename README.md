@@ -12,7 +12,7 @@
   <li>✅ <strong>Form Validation</strong>: Client-side validation for note content</li>
   <li>📱 <strong>Responsive Design</strong>: Works on both desktop and mobile devices</li>
   <li>🖼️ <strong>Sticky Note UI</strong>: Colorful card-based interface with hover effects</li>
-  <li>⚠️ <strong>Error Handling</strong>: Clear error messages for failed operations</li>
+<!--   <li>⚠️ <strong>Error Handling</strong>: Clear error messages for failed operations</li> -->
 </ul>
  
 <h2>🛠️ Technologies Used</h2>
