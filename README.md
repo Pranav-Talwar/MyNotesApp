@@ -20,7 +20,7 @@
 <h3>Frontend</h3>
 <ul>
   <li>⚛️ React </li>
-  <li>🧭 React Router</li>
+  <li>🧭 React Context</li>
   <li>🖌️ Bootstrap </li>
 
 </ul>
