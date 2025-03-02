@@ -24,9 +24,15 @@
 <li>🛑 <strong>Robust Error Handling</strong> – Clear feedback for failed operations and form validation to enhance user experience.</li>
 </ul>
 
-<h2>👨‍💻 Authors</h2>
+<h2>Authors</h2>
 <p>
-  <strong>Pranav Talwar</strong>  
-  <strong>Taylor Moore</strong>
+  <ul>
+  <li><strong>Pranav Talwar</strong></li>
+  <li> <strong>Categorization & Tagging</strong> – Organize notes efficiently with metadata tagging for enhanced searchability.</li>
+  <li>  <strong>Taylor Moore</strong></li>
+
+</ul>
+    
+
 </p>
 
