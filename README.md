@@ -12,9 +12,8 @@
 
 <hr />
 
-<h2>🚀 Key Features</h2>
+<h2>✨ Key Features</h2>
 
-<h3>✨ Intelligent Note Management</h3>
 <ul>
   <li>✅ <strong>Dynamic CRUD Operations</strong> – Create, read, update, and delete notes with seamless real-time feedback.</li>
   <li>✅ <strong>Categorization & Tagging</strong> – Organize notes efficiently with metadata tagging for enhanced searchability.</li>
