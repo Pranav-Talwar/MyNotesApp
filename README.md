@@ -21,5 +21,5 @@
   <li>🎭 <strong>Interactive Sticky Note UI</strong> – Modern card-based design with hover effects and smooth animations.</li>
   <li>📏 <strong>Fully Responsive</strong> – Fluid layouts for both desktop and mobile views.</li>
   <li>⚡ <strong>Optimized API Calls</strong> – Efficient state management to reduce unnecessary re-renders.</li>
-  <li>🛑 <strong>Robust Error Handling</strong> – Intuitive error messages for failed operations and form validation.</li>
+<li>🛑 <strong>Robust Error Handling</strong> – Clear feedback for failed operations and form validation to enhance user experience.</li>
 </ul>
