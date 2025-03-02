@@ -24,7 +24,7 @@
 <li>🛑 <strong>Robust Error Handling</strong> – Clear feedback for failed operations and form validation to enhance user experience.</li>
 </ul>
 
-<h2>Authors</h2>
+<!--<h2>Authors</h2>
 <p>
   <ul>
   <li><strong>Pranav Talwar</strong></li>
@@ -33,5 +33,5 @@
 </ul>
     
 
-</p>
+</p>-->
 
