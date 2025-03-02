@@ -26,7 +26,7 @@
 
 <h2>👨‍💻 Authors</h2>
 <p>
-  <strong>Pranav Talwar</strong> 
-  <strong>Taylor Moore</strong> 
+  <strong>Pranav Talwar</strong>  
+  <strong>Taylor Moore</strong>
 </p>
 
