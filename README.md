@@ -28,7 +28,6 @@
 <p>
   <ul>
   <li><strong>Pranav Talwar</strong></li>
-  <li> <strong>Categorization & Tagging</strong> – Organize notes efficiently with metadata tagging for enhanced searchability.</li>
   <li>  <strong>Taylor Moore</strong></li>
 
 </ul>
