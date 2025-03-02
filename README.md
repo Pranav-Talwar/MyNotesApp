@@ -28,7 +28,7 @@
 <p>
   <ul>
   <li><strong>Pranav Talwar</strong></li>
-  <li>  <strong>Taylor Moore</strong></li>
+  <li>  <strong>Kaleb Shewfelt</strong></li>
 
 </ul>
     
