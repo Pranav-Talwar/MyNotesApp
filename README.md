@@ -18,6 +18,5 @@
   <li>🔍 <strong>Instant Search & Filtering:</strong> Quickly locate notes using real-time search functionality.</li>
   <li>🎨 <strong>Sticky Note UI:</strong> Interactive card-based design with hover effects and smooth animations.</li>
   <li>📱 <strong>Fully Responsive:</strong> Adaptive layout ensuring a seamless experience on all devices.</li>
-  <li>🛡️ <strong>Security & Authentication:</strong> (Upcoming) JWT-based authentication to protect user data.</li>
   <li>🛑 <strong>Robust Error Handling:</strong> Clear and intuitive error messages for failed operations.</li>
 </ul>
