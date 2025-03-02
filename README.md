@@ -23,3 +23,10 @@
   <li>⚡ <strong>Optimized API Calls</strong> – Efficient state management to reduce unnecessary re-renders.</li>
 <li>🛑 <strong>Robust Error Handling</strong> – Clear feedback for failed operations and form validation to enhance user experience.</li>
 </ul>
+
+<h2>👨‍💻 Authors</h2>
+<p>
+  <strong>Pranav Talwar</strong> 
+  <strong>Taylor Moore</strong> 
+</p>
+
