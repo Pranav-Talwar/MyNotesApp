@@ -5,7 +5,7 @@
 <h2>🔥 Overview</h2>
 <p>
   <strong>MyNotesApp</strong> is a feature-rich, full-stack note-taking application designed for efficiency, scalability, and seamless user experience.
-  Built with a <strong>React</strong> frontend and a <strong>Spring Boot + MongoDB</strong> backend, this application implements robust <strong>CRUD operations</strong>,
+  Built with a <strong>React.js</strong> frontend and a <strong>Spring Boot + MongoDB</strong> backend, this application implements robust <strong>CRUD operations</strong>,
   client-side validation, and an intuitive <strong>Sticky Note UI</strong>. Whether you're managing simple to-do lists or detailed notes, MyNotesApp ensures
   <strong>data integrity, security, and a smooth user experience</strong> across all devices.
 </p>
