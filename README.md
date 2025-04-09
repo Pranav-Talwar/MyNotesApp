@@ -1,4 +1,4 @@
-<h1>📓 MyNotesApp - Advanced Full-Stack Note-Taking Application</h1>
+<h1>📓 MyNotesApp - Full-Stack Note-Taking Application</h1>
 
 <img src="https://raw.githubusercontent.com/Pranav-Talwar/MyNotesApp/main/frontend/Notes-App/public/Screenshot_2025-02-12_21-46-33.png" alt="Project Screenshot" />
 
